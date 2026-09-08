@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUdPFlj6w5En3L2BhCtxmqJiy22EeQ5bIfe9EkDVfOckIyYalpl2FQjbAyidBPzFbuHrAZ70VespRB5k7o40P1F7edDHQHS6uzhJQjo78AKFJFZQMW6cgJv_caPHcgTjvFt_F-_KN0fq1E/w3840-h1080-c/hatsune-miku-anime-girl-uhdpaper.com-4K-185.jpg" />
+<img src="/thumbnail.jpg" />
 
 # Vinitka Yeshynovka 🎀
 
