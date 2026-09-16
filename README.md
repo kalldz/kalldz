@@ -1,6 +1,6 @@
 <img src="/thumbnail.jpg" />
 
-# Vinitka Yeshynovka 🎀
+# Kalldz 🎀
 
 I code an app as my mood condition. Much of my time spent in Github and Twitter doom scrolling. I like to make a new program everyday. I still learn about coding and try a bit of new language, now I am currently learning python to enhance my skill. 
 
