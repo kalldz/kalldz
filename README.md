@@ -13,7 +13,7 @@ If you wanna talk to me, just text me via email. I will respond as soon as possi
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinitkanov&theme=github_dark" alt="Vinitka's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalldz&theme=github_dark" alt="Vinitka's GitHub Stats"/>
   
 </div>
 
