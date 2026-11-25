@@ -1,21 +1,39 @@
-<img src="/thumbnail.jpg" />
+![Profile Banner](./thumbnail.jpg)
 
-# Kalldz 🎀
+# Kalldz Dynasty / Notmiqdad
 
-I code an app as my mood condition. Much of my time spent in Github and Twitter doom scrolling. I like to make a new program everyday. I still learn about coding and try a bit of new language, now I am currently learning python to enhance my skill. 
+> Building things, breaking things, and learning along the way.
 
-I code since I was 13
+I'm a self-taught developer who enjoys turning ideas into applications. Most of my time goes into experimenting with new technologies, exploring different programming languages, and building things just for the sake of learning.
 
-## Contact Person >ᴗ<
+Currently exploring Python and expanding my knowledge across software development, networking, and application engineering.
 
-If you wanna talk to me, just text me via email. I will respond as soon as possible If I want.
+I believe every project, no matter how small or imperfect, is an opportunity to learn something new.
+
+### What I'm Exploring
+
+- **Software Development** — Building applications and experimenting with new ideas.
+- **Networking & Security** — Exploring network monitoring, infrastructure, and security.
+- **Programming Languages** — Currently learning Python and improving my development skills.
+- **Open Source** — Exploring projects, tools, and ideas from the developer community.
+
+### A Little About Me
+
+- Always working on something, even if it's just a small experiment.
+- I enjoy learning by building rather than just reading documentation.
+- Occasionally found doom-scrolling GitHub and Twitter.
+- Still learning, still experimenting, still building.
+
+### Get in Touch
+
+- Email: [pm@miqdad.id](mailto:pm@miqdad.id)
+
+---
+
+<sub>Made with curiosity, caffeine, and occasional existential debugging.</sub>
 
 
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalldz&theme=github_dark" alt="Vinitka's GitHub Stats"/>
-  
-</div>
 
 
 
